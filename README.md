@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi, I'm Julian Felipe 👋
 
+## About me:
++ Ex best colombian Fortnite player of his house.
++ Chess amateur.
++ Gamer.
++ Languages: C++ and Java.
++ Documentation: Markdown.
 <!--
 **julianfeliperojasalmanza-boop/julianfeliperojasalmanza-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
